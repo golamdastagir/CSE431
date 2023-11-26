@@ -4,6 +4,6 @@
 | Name | Link |
 | --- | --- |
 | PDF Report | [Link](https://github.com/golamdastagir/CSE431_team23/blob/5e01642cb9659080a1dedc2031f64b73bf0f333d/submission1/research%20report.pdf) |
-| Presentation slides (open access to anyone with the link) | [Link]() |
+| Presentation slides (Access to BRACU only) | [Link](https://docs.google.com/presentation/d/17kO3UzwTve02tuCvnzwDdA9NljvEbOi00pjyewADAH8/edit?usp=sharing) |
 | Unlisted youtube video link | [Link](https://www.youtube.com) |
 
